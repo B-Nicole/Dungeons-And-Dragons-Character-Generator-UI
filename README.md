@@ -16,25 +16,16 @@ Connecting buttons for scene transitions
 Visual art 
 
 ## Character Images
-![image](https://github.com/B-Nicole/Unity_UI/assets/43286085/2098d182-e6f0-4826-9151-a6a82a78e4f6 = 100x20)
-
-![image](https://github.com/B-Nicole/Unity_UI/assets/43286085/e45309bb-2302-47c2-9ce0-b89dada74dc6)
-
-![image](https://github.com/B-Nicole/Unity_UI/assets/43286085/cb09f829-6208-489e-9a3b-718960457619)
-
-![image](https://github.com/B-Nicole/Unity_UI/assets/43286085/bb778697-1c05-4bcc-8e0f-b49f2a0ee054)
-
-![image](https://github.com/B-Nicole/Unity_UI/assets/43286085/65f7dd05-9cd6-457e-a925-fa5d4985b668)
-
-![image](https://github.com/B-Nicole/Unity_UI/assets/43286085/4b969ab8-cb04-4311-8742-b2d6fc46388c)
-
-![image](https://github.com/B-Nicole/Unity_UI/assets/43286085/f366960e-b9a3-4ba9-8012-8e94b0a65895)
-
-![image](https://github.com/B-Nicole/Unity_UI/assets/43286085/727ebadc-e062-43a3-8499-02a6cace2791)
-
-![image](https://github.com/B-Nicole/Unity_UI/assets/43286085/39911c1a-11f6-438d-90c7-cd49f634b25b)
-
-![image](https://github.com/B-Nicole/Unity_UI/assets/43286085/64e6f3aa-9fa8-4789-ab54-97a2fe30f029)
+<img src = "https://github.com/B-Nicole/Unity_UI/assets/43286085/2098d182-e6f0-4826-9151-a6a82a78e4f6" width="200" height="200">
+<img src = "https://github.com/B-Nicole/Unity_UI/assets/43286085/e45309bb-2302-47c2-9ce0-b89dada74dc6" width="200" height="200">
+<img src = "https://github.com/B-Nicole/Unity_UI/assets/43286085/cb09f829-6208-489e-9a3b-718960457619" width="200" height="200">
+<img src = "https://github.com/B-Nicole/Unity_UI/assets/43286085/bb778697-1c05-4bcc-8e0f-b49f2a0ee054" width="200" height="200">
+<img src = "https://github.com/B-Nicole/Unity_UI/assets/43286085/65f7dd05-9cd6-457e-a925-fa5d4985b668" width="200" height="200">
+<img src = "https://github.com/B-Nicole/Unity_UI/assets/43286085/4b969ab8-cb04-4311-8742-b2d6fc46388c" width="200" height="200">
+<img src = "https://github.com/B-Nicole/Unity_UI/assets/43286085/f366960e-b9a3-4ba9-8012-8e94b0a65895" width="200" height="200">
+<img src = "https://github.com/B-Nicole/Unity_UI/assets/43286085/727ebadc-e062-43a3-8499-02a6cace2791" width="200" height="200">
+<img src = "https://github.com/B-Nicole/Unity_UI/assets/43286085/39911c1a-11f6-438d-90c7-cd49f634b25b" width="200" height="200">
+<img src = "https://github.com/B-Nicole/Unity_UI/assets/43286085/64e6f3aa-9fa8-4789-ab54-97a2fe30f029" width="200" height="200">
 
 # How to use
 clone the repository
