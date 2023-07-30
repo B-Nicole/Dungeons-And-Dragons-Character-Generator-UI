@@ -1,14 +1,12 @@
 # Dungeons and Dragons Character UI
-
-## Title: Dungeons and Dragons 
-## Author: Brittany Hughes 
-## Art: Brittany Hughes (except the background)
-
+### Author: Brittany Hughes 
+### Art: Brittany Hughes (except the background)
+<u>
 Objective: To create a working UI that generates a DnD character
 
 Challenges: Figuring out the singleton and how to store the users choice
 
-
+<u>
 ##Process: 
 I began by blocking out the basic layout of the game in my sketchbook. This helped me generate the overall flow. I then began to make basic scenes in Unity. The buttons contained plain text and a simple black background. I used a tutorial from Brackys- [Bracky's tutorial](https://youtu.be/CE9VOZivb3I) - for scene changing to wire the buttons to each scene. For the rolls I used the list data structure to store each of the five rolls taking the sum of the highest three while adding a +2 modfyer. Once I had the basic layout I began to work on the art in [clip studio paint.](https://www.clipstudio.net/en/) I exported each image in PNG format with a transparent background. I then transferred each image onto a button. For the background I grabbed one from google images. For the Json file, while I was able to get it to output I was not able to copy and paste it. When I tried to tinker with it, the button to generate the file disappeared so I decided to leave it for the time being.
 
@@ -18,7 +16,7 @@ Connecting buttons for scene transitions
 Visual art 
 
 ## Character Images
-![image](https://github.com/B-Nicole/Unity_UI/assets/43286085/2098d182-e6f0-4826-9151-a6a82a78e4f6)
+![image](https://github.com/B-Nicole/Unity_UI/assets/43286085/2098d182-e6f0-4826-9151-a6a82a78e4f6 = 100x20)
 
 ![image](https://github.com/B-Nicole/Unity_UI/assets/43286085/e45309bb-2302-47c2-9ce0-b89dada74dc6)
 
